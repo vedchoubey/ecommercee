@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Classic T-Shirt",
+      "description": "A stylish and comfortable t-shirt made of soft cotton fabric.",
+      "price": 19.99,
+      "rating": 4.5,
+      "image": "/images/tshirt.jpeg",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 25
+        },
+        {
+          "size": "M",
+          "quantity": 40
+        },
+        {
+          "size": "L",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Denim Jacket",
+      "description": "A trendy denim jacket with a slim fit and premium finish.",
+      "price": 59.99,
+      "rating": 4.7,
+      "image": "/images/denim.jpeg",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes designed for maximum comfort and support.",
+      "price": 89.99,
+      "rating": 4.8,
+      "image": "/images/running.jpeg",
+      "sizes": [
+        {
+          "size": "6",
+          "quantity": 50
+        },
+        {
+          "size": "7",
+          "quantity": 60
+        },
+        {
+          "size": "8",
+          "quantity": 40
+        },
+        {
+          "size": "9",
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Casual Sneakers",
+      "description": "Stylish sneakers suitable for casual wear with great comfort.",
+      "price": 49.99,
+      "rating": 4.2,
+      "image": "/images/sneaker.jpeg",
+      "sizes": [
+        {
+          "size": "7",
+          "quantity": 20
+        },
+        {
+          "size": "8",
+          "quantity": 25
+        },
+        {
+          "size": "9",
+          "quantity": 30
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Lightweight running shoes designed for maximum comfort and support.",
+        "price": 89.99,
+        "rating": 4.8,
+        "image": "/images/running2.jpeg",
+        "sizes": [
+          {
+            "size": "6",
+            "quantity": 50
+          },
+          {
+            "size": "7",
+            "quantity": 60
+          },
+          {
+            "size": "8",
+            "quantity": 40
+          },
+          {
+            "size": "9",
+            "quantity": 35
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Casual Sneakers",
+        "description": "Stylish sneakers suitable for casual wear with great comfort.",
+        "price": 49.99,
+        "rating": 4.2,
+        "image": "/images/casual2.jpeg",
+        "sizes": [
+          {
+            "size": "7",
+            "quantity": 20
+          },
+          {
+            "size": "8",
+            "quantity": 25
+          },
+          {
+            "size": "9",
+            "quantity": 30
+          }
+        ]
+      }
+  ]
+  

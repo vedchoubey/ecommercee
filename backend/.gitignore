@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Yarn lock files
+yarn.lock
+
+# Operating System files
+.DS_Store
+Thumbs.db
